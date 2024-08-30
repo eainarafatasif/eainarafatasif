@@ -1,7 +1,7 @@
 Hi 👋 My name is Yasin arafat
 =============================
 
-Linux System Administrator | DevOps
+Linux System Administrator | DevOps Engineer
 -----------------------------------
 
 Experienced Linux System Administrator and DevOps professional with expertise in managing and automating server environments. Skilled in deploying, monitoring, and optimizing systems for high availability and performance. Proficient in CI/CD pipelines, cloud services, and infrastructure as code, ensuring seamless operations and efficient workflows across development and production environments.
